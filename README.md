@@ -1,7 +1,9 @@
 # 3D-Engine
 Rudimentary 3D graphics in Java
 
-This project implements 3D rendering at its most basic level in Java.  Download and run 3D.jar in to play around with the program
+This project implements 3D rendering at its most basic level in Java
+
+Download and run 3D.jar in to play around with the program
 
 ## Features
 
